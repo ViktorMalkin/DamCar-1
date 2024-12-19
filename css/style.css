@@ -440,6 +440,20 @@ body._lock {
   left: 0;
 }
 
+.main-screen__text {
+  color: #fff;
+  position: absolute;
+  top: 25%;
+  left: 55%;
+  font-family: Lato;
+  font-size: 15px;
+  letter-spacing: 2px;
+  height: 400px;
+}
+.main-screen__item {
+  padding: 30px;
+}
+
 .ibg {
   background-repeat: no-repeat;
   background-size: cover;
